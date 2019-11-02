@@ -8,7 +8,7 @@ You app an App component with ```<IconButton>``` as the child and it renders a b
 
 Turn the ```<IconButton>``` tag into custom HTML tag where we can put some content.
 
-Tthe content we put inbetween the ```<IconButton>``` tag is going to get passed in as a prop called Children. We can render the Children inside of button and it will change. 
+The content we put inbetween the ```<IconButton>``` tag is going to get passed in as a prop called Children. We can render the Children inside of button and it will change. 
 
 ```javascript
 const IconButton = ({ children }) => (
