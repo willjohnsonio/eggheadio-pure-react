@@ -99,7 +99,7 @@ const Content = ({ children }) => (
 ```
 
 ## Resources
-[Dave Ceddia's Blog Post Pass 'Multiple Children to a React Component with Slots'](https://daveceddia.com/pluggable-slots-in-react-components/)
+[Dave Ceddia's Blog Post 'Pass Multiple Children to a React Component with Slots'](https://daveceddia.com/pluggable-slots-in-react-components/)
 
 
 
